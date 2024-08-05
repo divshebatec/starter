@@ -1,7 +1,7 @@
----
-A
----
+# SHEBATEC
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+![banar.webp](/banar.webp)
 
----
+::prose-code
+TEST
+::
